@@ -44,13 +44,5 @@
 
 ---
 
-## 📽️ Check Out My Project
-### [🎥 Bilibili-Style Video Streaming Platform](https://github.com/Billy423/Bilibili-like_Video_Streaming_Platform)
-- Real-time platform supporting 5000+ concurrent users  
-- Optimized upload & streaming with FastDFS, Redis caching, RocketMQ  
-- Modular Spring Boot microservices with CI/CD deployment
-
----
-
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/zihengbilly-wu/) • [GitHub](https://github.com/Billy423) • [LeetCode](https://leetcode.com/u/sOQS3H2alo/) • zihengwubilly@outlook.com
